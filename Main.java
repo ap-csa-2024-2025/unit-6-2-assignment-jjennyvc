@@ -20,7 +20,8 @@ public class Main
 
   public static boolean containsNeg(int[] array)
   {
-    // Implement Problem 1 here
+    boolean containsNeg [] = []
+    
     return 0;
   }
 }
